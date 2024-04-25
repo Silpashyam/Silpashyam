@@ -2,7 +2,8 @@
 Welcome to my GitHub
 
 I am Silpa from India , A software Test Engineer. I have professional skills in Testing websites, mobile and desktop application via both manual and automation. 
- 🌱 I’m currently learning  API automation.
+
+-🌱 I’m currently learning  API automation.
 <!--
 **Silpashyam/Silpashyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
