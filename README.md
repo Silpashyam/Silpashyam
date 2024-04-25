@@ -13,7 +13,6 @@ As a Software Test Engineer at [Cogniphi](https://cogniphi.com/) I was actively 
 ### Skills & Experience
 * (![github](/images/icon.png))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silpashyam)](https://github.com/silpashyam/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silpashyam)](https://github.com/anuraghazra/github-readme-stats)
 
 
