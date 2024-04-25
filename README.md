@@ -6,7 +6,7 @@ I am Silpa from India , A software Test Engineer. I have professional skills in 
 * 🔭 I’m currently working on Selenium.
 * 🌱 I’m currently learning  API automation.
 * 📫 How to reach me: silpap149@gmail.com
-* 🗒️ Know about my experiences [www.linkedin.com/in/silpa-pootheri](www.linkedin.com/in/silpa-pootheri)
+* 🗒️ Know about my experiences www.linkedin.com/in/silpa-pootheri
 
 As a Software Test Engineer at [Cogniphi](https://cogniphi.com/) I was actively involved in all testing activities, including Requirement Analysis, Test Case development, and Defect management. I contributed to the development of Test Automation frameworks and have extensive experience in test automation using Selenium WebDriver with Java. I have a solid understanding of Maven for project and dependency management, TestNG framework for writing and executing automated test suites, and organizing test code using Page Object Model (POM) for test maintainability.
 
